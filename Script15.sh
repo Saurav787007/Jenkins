@@ -11,3 +11,10 @@ do
 echo "Weekday $((i++)) : $day"
 done
 cl
+bin/bash
+i=1
+for day in Mon Tue Wed Thu Frigit 
+do
+echo "Weekday $((i++)) : $day"
+done
+cl
